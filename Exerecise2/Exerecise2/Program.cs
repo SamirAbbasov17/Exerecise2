@@ -246,11 +246,11 @@
                 string domain = sortedMail.Substring(sortedMail.IndexOf("@") + 1, sortedMail.LastIndexOf(".") - sortedMail.IndexOf("@")-1); 
                 string extension = sortedMail.Substring(sortedMail.LastIndexOf(".") + 1);
 
-                Console.WriteLine(ad);
-                Console.WriteLine(soyad);
-                Console.WriteLine(sortedMail);
-                Console.WriteLine(domain);
-                Console.WriteLine(extension);
+                Console.WriteLine("Ad: "+ad);
+                Console.WriteLine("Soyad: "+soyad);
+                Console.WriteLine("Mail: "+sortedMail);
+                Console.WriteLine("Domain: "+domain);
+                Console.WriteLine("Extension: "+extension);
                 Console.WriteLine(new String('-',25));
             }
 
