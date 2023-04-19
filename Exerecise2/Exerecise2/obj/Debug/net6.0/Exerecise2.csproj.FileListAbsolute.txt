@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Code Acadamy\Exerecise2\Exerecise2\Exerecise2\bin\Debug\net6.0\Exerecise2.exe
+C:\Users\User\Desktop\Code Acadamy\Exerecise2\Exerecise2\Exerecise2\bin\Debug\net6.0\Exerecise2.deps.json
+C:\Users\User\Desktop\Code Acadamy\Exerecise2\Exerecise2\Exerecise2\bin\Debug\net6.0\Exerecise2.runtimeconfig.json
+C:\Users\User\Desktop\Code Acadamy\Exerecise2\Exerecise2\Exerecise2\bin\Debug\net6.0\Exerecise2.dll
+C:\Users\User\Desktop\Code Acadamy\Exerecise2\Exerecise2\Exerecise2\bin\Debug\net6.0\Exerecise2.pdb
+C:\Users\User\Desktop\Code Acadamy\Exerecise2\Exerecise2\Exerecise2\obj\Debug\net6.0\Exerecise2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Code Acadamy\Exerecise2\Exerecise2\Exerecise2\obj\Debug\net6.0\Exerecise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Acadamy\Exerecise2\Exerecise2\Exerecise2\obj\Debug\net6.0\Exerecise2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Acadamy\Exerecise2\Exerecise2\Exerecise2\obj\Debug\net6.0\Exerecise2.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Acadamy\Exerecise2\Exerecise2\Exerecise2\obj\Debug\net6.0\Exerecise2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Acadamy\Exerecise2\Exerecise2\Exerecise2\obj\Debug\net6.0\Exerecise2.dll
+C:\Users\User\Desktop\Code Acadamy\Exerecise2\Exerecise2\Exerecise2\obj\Debug\net6.0\refint\Exerecise2.dll
+C:\Users\User\Desktop\Code Acadamy\Exerecise2\Exerecise2\Exerecise2\obj\Debug\net6.0\Exerecise2.pdb
+C:\Users\User\Desktop\Code Acadamy\Exerecise2\Exerecise2\Exerecise2\obj\Debug\net6.0\Exerecise2.genruntimeconfig.cache
+C:\Users\User\Desktop\Code Acadamy\Exerecise2\Exerecise2\Exerecise2\obj\Debug\net6.0\ref\Exerecise2.dll
